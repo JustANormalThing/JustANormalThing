@@ -1,6 +1,7 @@
 ## Hello 
 
 I am currently learning js and css
+![text](https://github.com/JustANormalThing/justathing/blob/main/cirno.gif)
 
 
 
