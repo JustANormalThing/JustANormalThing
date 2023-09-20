@@ -7,9 +7,7 @@ I am currently learning js and css
 
 
 ## Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title js </title> width = "40" height="40" />&nbsp;
-![text]("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css")
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="text" title="title">
 
 <!--
 **JustANormalThing/JustANormalThing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
