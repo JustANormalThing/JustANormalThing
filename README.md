@@ -1,4 +1,5 @@
-### Hello 
+## Hello 
+
 I am currently learning js and css
 
 
@@ -7,7 +8,7 @@ I am currently learning js and css
 
 ## Learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title js </title> width = "40" height="40" />&nbsp;
-!("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css")
+![text]("https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css")
  
 
 <!--
