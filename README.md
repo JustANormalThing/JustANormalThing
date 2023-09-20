@@ -2,8 +2,7 @@
 I am currently learning js and css
 
 ### Learning
-<img src ="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">"
-title = "java script" width = "40" height = "40"
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
  
 
 <!--
